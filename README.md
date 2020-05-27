@@ -25,7 +25,7 @@ $ pip install -U tensorflow(or any other package name)
 * 2
 
 ![content](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/building.jpg)
-![Style](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/steve.jpg)
+![Style](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/steve.png)
 ![Output](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/building19.jpg)
 
 * 3
