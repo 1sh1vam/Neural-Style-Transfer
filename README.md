@@ -18,10 +18,12 @@ $ pip install tensorflow(or any other package name)
 
 # Results
 * 1
-![Content Image](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/tajmahal.jpg) ![Style Image](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/paintings.jpg)
+
+![Content Image](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/tajmahal1.jpg) ![Style Image](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/paintings.jpg)
 ![Output](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/xyz%20(2).png)
 
 * 2
+
 ![content](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/building.jpg)
 ![Style](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/style3.jpg)
 ![Output](https://github.com/1sh1vam/Neural-Style-Transfer/blob/master/Images/building19.jpg)
