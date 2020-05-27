@@ -13,7 +13,7 @@ Tensorflow implementation of Neural Style Transfer to generate Art. We have used
 
 # Insatallation Instructions
 ```
-$ pip install tensorflow(or any other package name)
+$ pip install -U tensorflow(or any other package name)
 ```
 
 # Results
